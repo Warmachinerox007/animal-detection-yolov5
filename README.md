@@ -1,19 +1,19 @@
-# 🐾 Real-Time Animal Detection using YOLOv5
+#  Real-Time Animal Detection using YOLOv5
 
 This project implements real-time animal detection using the YOLOv5 deep learning model and OpenCV. It uses your webcam to detect and highlight animals such as dogs, cats, cows, horses, and more.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🎥 Real-time webcam-based detection
-- 🧠 Powered by YOLOv5 (`yolov5s` pretrained model)
-- 🐶 Detects various animals including dogs, cats, horses, cows, etc.
-- 📦 Easy to set up and run on your own PC
+-  Real-time webcam-based detection
+-  Powered by YOLOv5 (`yolov5s` pretrained model)
+-  Detects various animals including dogs, cats, horses, cows, etc.
+-  Easy to set up and run on your own PC
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - Python 3.8+
 - PyTorch
@@ -23,7 +23,7 @@ This project implements real-time animal detection using the YOLOv5 deep learnin
 
 ---
 
-## 🛠️ Setup Instructions
+## 🛠 Setup Instructions
 
 ### 1. Clone the Repository
 
