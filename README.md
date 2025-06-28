@@ -23,7 +23,7 @@ This project implements real-time animal detection using the YOLOv5 deep learnin
 
 ---
 
-## 🛠 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
